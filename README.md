@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joshmwood
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning to make browser-based games.
+- 📫 joshmwood95@gmail.com
